@@ -11,11 +11,10 @@ I enjoy turning ideas into working projects, learning how systems work behind th
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student
-- 💻 Building projects with the **MERN stack**
-- 🧠 Practicing **Data Structures & Algorithms** with C++ and LeetCode
-- 🌱 Currently improving my skills in **Full-Stack Development**
-- 🚀 Working on projects that combine software development with problem solving
-- 🔍 Interested in writing clean, practical and maintainable code
+- 💻 Building full-stack applications with the MERN stack
+- 🧠 Solving DSA problems using C++ and LeetCode
+- 🚀 Currently focused on React, Node.js and backend development
+- 🛠️ Learning by building and improving real-world projects
 
 ---
 
