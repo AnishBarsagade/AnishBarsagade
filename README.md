@@ -1,4 +1,4 @@
-<picture>
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="./dark.svg"
@@ -11,7 +11,7 @@
     src="./dark.svg"
     alt="Anish's developer profile"
   />
-</picture>
+</picture> -->
 # Hi, I'm Anish 👋
 
 ### Full-Stack Developer | DSA Enthusiast | Building & Learning 🚀
